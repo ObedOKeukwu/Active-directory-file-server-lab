@@ -9,3 +9,15 @@ Features:
 - Logged successful and failed file access attempts
 - Monitored Event ID 4663 in Event Viewer
 - Verified access control enforcement through access-denied testing
+## Technologies Used
+
+- Windows Server 2019
+- Active Directory Domain Services (AD DS)
+- Group Policy Management
+- NTFS Permissions
+- SMB File Sharing
+- Windows Event Viewer
+- Ubuntu Linux
+- CIFS/Samba
+- dsquery
+- VMware Workstation
